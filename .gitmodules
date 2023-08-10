@@ -1,0 +1,6 @@
+[submodule "CDGNet"]
+	path = CDGNet
+	url = https://github.com/tjpulkl/CDGNet.git
+[submodule "MODNet"]
+	path = MODNet
+	url = https://github.com/ZHKKKe/MODNet.git
